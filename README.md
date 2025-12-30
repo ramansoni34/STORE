@@ -1,1 +1,1 @@
-# SONI-STORE
+# STORE
